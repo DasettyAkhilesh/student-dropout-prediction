@@ -56,3 +56,4 @@ Shows the most important factors contributing to student dropout predictions.
 ## 🚀 Future Ideas  
 - Deploy with Streamlit or Gradio  
 - Extend to other student behavior datasets
+
