@@ -25,24 +25,23 @@ To build a machine learning model that predicts student dropout risk using behav
 
 ---
 
-## 📷 Visuals  
 ## 📷 Model Outputs & Visualizations
 
-### 📊 1. Feature Importance
-This plot shows which features had the most impact on predicting student dropouts.
-![Feature Importance](feature_importance.png)
+### 📊 1. Feature Importance  
+Shows the most important factors contributing to student dropout predictions.
+![Feature Importance](Feature_Importance.png)
 
 ---
 
-### 🔷 2. Confusion Matrix
-This matrix displays the true vs. predicted class values to evaluate model performance.
-![Confusion Matrix](Confusion Matrix.png)
+### 📌 2. Confusion Matrix  
+Compares predicted vs actual values to evaluate classification accuracy.
+![Confusion Matrix](Confusion_Matrix.png)
 
 ---
 
-### ✅ 3. Model Accuracy Output
-Final printed accuracy score after training and testing the Random Forest model.
-![Model Accuracy](model_accuracy.png)
+### 🌡️ 3. Correlation Heatmap  
+Displays relationships between all features to find highly correlated variables.
+![Correlation Heatmap](correlations_Heatmap.png)
 
 
 ---
