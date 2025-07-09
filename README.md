@@ -14,6 +14,7 @@ To build a machine learning model that predicts student dropout risk using behav
 ## 📊 Features Used  
 - Gender, Nationality, Class, Absence days  
 - Visited Resources, Raised Hands, Discussion posts
+  ## 📷 Feature Importance
 
 ---
 
@@ -25,7 +26,24 @@ To build a machine learning model that predicts student dropout risk using behav
 ---
 
 ## 📷 Visuals  
-Include screenshots of graphs or confusion matrix (optional)
+## 📷 Model Outputs & Visualizations
+
+### 📊 1. Feature Importance
+This plot shows which features had the most impact on predicting student dropouts.
+![Feature Importance](feature_importance.png)
+
+---
+
+### 🔷 2. Confusion Matrix
+This matrix displays the true vs. predicted class values to evaluate model performance.
+![Confusion Matrix](Confusion Matrix.png)
+
+---
+
+### ✅ 3. Model Accuracy Output
+Final printed accuracy score after training and testing the Random Forest model.
+![Model Accuracy](model_accuracy.png)
+
 
 ---
 
