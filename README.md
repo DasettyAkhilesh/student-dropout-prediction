@@ -27,21 +27,21 @@ To build a machine learning model that predicts student dropout risk using behav
 
 ## 📷 Model Outputs & Visualizations
 
-### 📊 1. Feature Importance  
-Shows the most important factors contributing to student dropout predictions.
-![Feature Importance](Feature_Importance.png)
-
----
-
-### 📌 2. Confusion Matrix  
+### 📊 1. Confusion Matrix  
 Compares predicted vs actual values to evaluate classification accuracy.
 ![Confusion Matrix](Confusion_Matrix.png)
 
 ---
 
-### 🌡️ 3. Correlation Heatmap  
+### 📌 2. Correlation Heatmap  
 Displays relationships between all features to find highly correlated variables.
 ![Correlation Heatmap](correlations_Heatmap.png)
+
+---
+
+### 🌡️ 3.Feature Importance  
+Shows the most important factors contributing to student dropout predictions.
+![Feature Importance](Feature_Importance.png) 
 
 
 ---
